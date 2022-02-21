@@ -1,0 +1,23 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+.single-thum img {
+  display: block !important;
+  max-width: 100% !important;
+  margin: 30px !important;
+  float: none !important;
+}
+
+
+</style>
+<!-- end Simple Custom CSS and JS -->
